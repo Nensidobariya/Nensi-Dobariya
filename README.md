@@ -1,4 +1,3 @@
-# Superstore-Sales-Dashboard
 # Hi, I'm Nensi Dobariya
 
 ## Business Analyst | AI Automation | Data Analytics
