@@ -1,43 +1,53 @@
-# Hi, I'm Nensi Dobariya
+# Hi, I'm Nensi Dobariya 
 
-## Business Analyst | AI Automation | Data Analytics
-
-> Fresher passionate about turning data into 
-> business decisions using AI and automation
+### Business Analyst | AI Automation | Data Analytics
+> Fresher passionate about turning data into business 
+> decisions using AI and automation tools
 
 ---
 
 ## Skills & Tools
 
-**Business Analysis**
-![Requirements](badge) BRD | FRD | Stakeholder Management | Agile | JIRA
-
-**Data & BI**
-![PowerBI](badge) Power BI | SQL | Excel | Tableau | Python
-
-**AI & Automation**
-![AI](badge) Prompt Engineering | UiPath | Make.com | GPT-4 API
+| Category | Tools |
+|---|---|
+| **Business Analysis** | Requirements Elicitation, BRD, FRD, Stakeholder Management, Agile, JIRA, UAT |
+| **Data & BI** | Power BI, SQL, Excel, Tableau, Python |
+| **AI & Automation** | Prompt Engineering, Google Gemini API, UiPath, Make.com, n8n |
+| **Programming** | Python (Pandas, NumPy), SQL, VBA |
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
-| Project | Tools | Link |
+| Project | Tools | Status |
 |---|---|---|
-| Superstore Sales Dashboard | Power BI | [View] |
-| Customer Churn Analysis | Python, SQL | Coming Soon |
-| AI Email Automation | GPT-4, Zapier | Coming Soon |
+|  [Superstore Sales Dashboard](https://github.com/Nensidobariya/superstore-powerbi-dashboard) | Power BI, Excel | Complete |
+|  [AI Email Automation Tool](https://github.com/Nensidobariya/ai-email-automation) | Python, Gemini API | Complete |
+|  Customer Churn Analysis | Python, SQL | Coming Soon |
 
 ---
 
-## 📜 Certifications
-- ✅ Deloitte Data Analytics — Forage
-- ✅ TATA GenAI Analytics — Forage  
-- ✅ Google Data Analytics — Coursera
-- 🔄 UiPath RPA — In Progress
+## Certifications
+
+- Deloitte Data Analytics Virtual Internship — Forage
+- TATA GenAI & Data Analytics — Forage
+- Google Data Analytics — Coursera (In Progress)
+- UiPath RPA Developer — UiPath Academy (In Progress)
 
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](link)](https://www.linkedin.com/in/nensi-dobariya)
-nensidobariya3112@gmail.com
+## GitHub Stats
+
+![Nensi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nensidobariya&show_icons=true&theme=tokyonight)
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nensi-dobariya)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nensidobariya3112@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nensidobariya)
+
+---
+
+**Open to Business Analyst & AI Automation roles — Available immediately!**
